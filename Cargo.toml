@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "A linear token-streaming (vesting) contract for Soroban — deposit once, drip continuously."
 license = "MIT"
-repository = "https://github.com/oluwatimilehinm65/dripswave-stream"
+repository = "https://github.com/oluwatimilehinm65/soroban-linear-stream-contract"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
